@@ -6,7 +6,3 @@ is used to fetch information from an API and the Images are loaded using the Gli
 along with the name of the author.
 
 
-
-![WhatsApp Image 2022-01-08 at 12 14 28 AM](https://user-images.githubusercontent.com/74343156/148592664-ad963d8d-6448-4485-bd24-abb71acb8a63.jpeg)
-![WhatsApp Image 2022-01-08 at 12 14 35 AM](https://user-images.githubusercontent.com/74343156/148592918-d9d3b026-f8ee-46b5-a0d7-cbdc0122b80a.jpeg)
-
