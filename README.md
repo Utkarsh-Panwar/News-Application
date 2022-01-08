@@ -15,6 +15,5 @@ along with the name of the author.
 <img src=https://user-images.githubusercontent.com/74343156/148635400-c998061c-fd30-4576-8567-0e2e695240cb.jpeg  width =300 height =450>
 <img src=https://user-images.githubusercontent.com/74343156/148635408-e3f9cd0c-ce90-4e5c-9bfb-da5c60874353.jpeg  width =300 height =450>
 <img src=https://user-images.githubusercontent.com/74343156/148635413-578b4d3e-9424-4ce2-b4eb-9df342f0b204.jpeg  width =300 height =450>
-<img src=https://user-images.githubusercontent.com/74343156/148635420-c5a425ec-d1c7-43aa-8865-5617e8d3d4a4.jpeg  width =300 height =450>
 </p>
 
