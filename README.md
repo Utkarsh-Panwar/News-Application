@@ -11,7 +11,7 @@ along with the name of the author.
 
 <img src=https://user-images.githubusercontent.com/74343156/148635391-a7d3d9c0-817c-462d-b0e4-edc0b0980fef.jpeg  width =300 height =450>
 <img src=https://user-images.githubusercontent.com/74343156/148635406-4493c77f-6bc4-4e63-a1e0-477fc47a326c.jpeg  width =300 height =450>
-<img src=https://user-images.githubusercontent.com/74343156/148635577-9bfce5ca-d4cd-49b7-b58d-8f618bc0606d.jpeg width =300 height =450>
+
 <img src=https://user-images.githubusercontent.com/74343156/148635400-c998061c-fd30-4576-8567-0e2e695240cb.jpeg  width =300 height =450>
 
 </p>
